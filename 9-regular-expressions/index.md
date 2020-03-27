@@ -1,7 +1,9 @@
-# Regular expressions
+# Biểu thức chính quy
 
-Regular expressions is a powerful way of doing search and replace in strings.
+Biển thức chính quy là một cách để thực hiện tìm kiếm và thay thế trong một chuỗi ký tự.
 
-In JavaScript regular expressions are implemented using objects of a built-in `RegExp` class and integrated with strings.
+Trong JavaScript biểu thức chính quy được thực thi bằng cách sử dụng các đối tượng của class RegExp` và được tích hợp với các chuỗi.
 
-Please note that regular expressions vary between programming languages. In this tutorial we concentrate on JavaScript. Of course there's a lot in common, but they are a somewhat different in Perl, Ruby, PHP etc.
+Vui lòng chú ý rằng biểu thức chính quy sẽ khác nhau giữa các nguôn ngữ lập trình. Trong bài học này chúng ta sẽ tập trung vào JavaScript.
+
+Tất nhiên sẽ có nhiều biểu thức giống nhau giữa các ngôn ngữ lập trình nhưng cũng có sự khác biết trong PHP,Perl,Ruby...
